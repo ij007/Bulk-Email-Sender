@@ -11,9 +11,9 @@ from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 
 # --------------------------Variable----------------------------------------------
-ID = '19F31OODaONIL959CbfYJ-pHKULUu07kqfoNQapDFIpQ'
+ID = ''
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets', 'https://www.googleapis.com/auth/gmail.send', 'https://www.googleapis.com/auth/gmail.labels']
-SENDER_EMAIL = '21f1006421@student.onlinedegree.iitm.ac.in'
+SENDER_EMAIL = ''
 SUBJECT = 'Test'
 MESSAGE = '<br>Hey<br>' \
           '<b></i>hii</i></b>'
